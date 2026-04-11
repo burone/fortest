@@ -1,0 +1,16 @@
+{
+  "fetchedAtMs": 1710000000000,
+  "cacheTtlSeconds": 3600,
+  "users": [
+    {
+      "userId": "USER000001",
+      "userSig": "eJyrVgrxCdYrSy1SslIy0jNQ0gHzM1NS80oy0zLBwqHBrkEGIGAIlS1OyU4sKMhMUbIyNAOKGptYWJpCZFIrCjKLUoHipqamRkAdENGSzFyQmLm5qYGxkYUpVG1xZjrQ8FSfiFK38qgcn*KqyuDK8myXqgqn7ELT4EzTKq*8TIOqEAOvMpMIY19-s0BbpVoAvBwyrw__",
+      "expiresAtMs": 1710003600000
+    },
+    {
+      "userId": "USER000002",
+      "userSig": "xxxxxx",
+      "expiresAtMs": 1710003600000
+    }
+  ]
+}
